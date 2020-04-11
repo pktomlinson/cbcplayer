@@ -7,7 +7,7 @@ Format:
 
 id: unique identifier
 
-stat: can be used in any way; I use it designate my preferred station with a 1'
+stat: can be used in any way; I use it designate my preferred station with a 1
 
 title: name of station
 
