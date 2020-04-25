@@ -8,7 +8,7 @@ Requires MPD and MPC
 
 ### Files:
 
-cbc_playlist.m3u.json
+1. cbc_playlist.m3u.json
 
 A JSON file containing all Canadian Broadcasting Corporation (CBC) online Radio streaming URL's. This may not be a complete list but covers the main URL's available in Canada, available through the 'Live Radio' link at cbc.ca
 
@@ -22,10 +22,10 @@ title: name of station
 
 url: URL of audio stream
 
-player.ini
+2. player.ini
 
 For configuration settings
 
-cbcplayer.bak.py
+3. cbcplayer.bak.py
 
 Python3 script
