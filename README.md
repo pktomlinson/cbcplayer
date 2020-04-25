@@ -17,6 +17,10 @@ Format: id: unique identifier
         title: name of station
         url: URL of audio stream
 
+### cbc_playlist_pifi.json
+
+        PiFi-compatible list of CBC urls
+        
 ### player.ini
 
 For configuration settings
