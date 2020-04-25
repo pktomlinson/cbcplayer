@@ -19,7 +19,7 @@ Format: id: unique identifier
 
 ### cbc_playlist_pifi.json
 
-        PiFi-compatible list of CBC urls
+List of CBC urls for the excellent <a href = 'https://github.com/rccavalcanti/pifi-radio'>PiFi</a> by Rafael Cavalcanti.
         
 ### player.ini
 
