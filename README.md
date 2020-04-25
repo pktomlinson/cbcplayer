@@ -5,7 +5,7 @@ A curses program for streaming CBC Radio One
 
 Requires MPD and MPC
 
-Files:
+#Files:
 
 cbc_playlist.m3u.json
 
